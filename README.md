@@ -1,2 +1,2 @@
 code for time series analysis
-al topics in detail
+all topics in detail
